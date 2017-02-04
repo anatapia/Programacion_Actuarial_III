@@ -1,0 +1,45 @@
+---
+title: "Calificaciones"
+author: "Ana Laura Tapia"
+date: "3 de febrero de 2017"
+output: html_document
+---
+
+##Primer Semestre
+
+Matemáticas básicas: 9
+
+Problemas de matemáticas básicas: 9
+
+Conceptos de Cálculo: 9
+
+DHPC: 10
+
+Programación actuarial I: 8
+
+Introducción a la profesión Actuarial: 6
+
+##Segundo Semestre
+
+Cálculo diferencial: 7
+
+Teoría de ecuaciones: 7
+
+Formación Humana: 9
+
+Teoría del Interés I: 9
+
+Inglés I: 10
+
+##Tercer Semestre
+
+Teoría del interés II: 8
+
+Programación actuarial II: 9
+
+Inglés II: 9
+
+Registros Académicos: 9
+
+Microeconomía: 9
+
